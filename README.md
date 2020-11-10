@@ -1,1 +1,2 @@
-hebele hübele
+düzgün okumak lazım...
+commit message: changed some stuff
